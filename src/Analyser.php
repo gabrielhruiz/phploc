@@ -8,7 +8,7 @@
  * file that was distributed with this source code.
  */
 
-namespace SebastianBergmann\PHPLOC;
+//namespace SebastianBergmann\PHPLOC;
 
 /**
  * PHPLOC code analyser.
